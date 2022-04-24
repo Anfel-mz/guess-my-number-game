@@ -36,8 +36,6 @@ const displayW = function (text, c) {
 
 //the secret number
 let numbers = randomNum(20);
-//updating it just for testing
-console.log(numbers);
 
 //score variable
 let score = Number(document.querySelector('.score').textContent);
